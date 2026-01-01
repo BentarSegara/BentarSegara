@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native,Backend with Node Js, and Full Stack with Laravel.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BentarSegara](https://github.com/BentarSegara)
+- 👨‍💻 All of my projects are available at [https://segara-personal.my.id/](https://segara-personal.my.id/)
 
 - 📫 How to reach me **adesegoro@gmail.com**
 
